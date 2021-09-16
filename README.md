@@ -1,7 +1,4 @@
-### Boiling a plate for me.
+### Visx Baby!!!!
+- Learning Visx and seeing what power it will relinquish to me
 
-- Going to contain some cool shit that will freak you the fuck out.
 
-### Notes about the shit in here:
-
-- DB and Routes contain dummy code.
